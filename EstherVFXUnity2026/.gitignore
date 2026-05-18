@@ -1,0 +1,33 @@
+# Unity auto-generated — safe to ignore, Unity rebuilds these
+/Library/
+/Temp/
+/Logs/
+/obj/
+/Build/
+/Builds/
+
+# IDE project files — auto-generated, not needed in git
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# User-specific settings
+/UserSettings/
