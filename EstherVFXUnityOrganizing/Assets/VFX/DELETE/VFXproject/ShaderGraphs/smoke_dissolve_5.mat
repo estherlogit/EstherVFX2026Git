@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: smoke_dissolve_5
+  m_Shader: {fileID: -6465566751694194690, guid: fe2a914ac64337e4aacd9e231cd4c598,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_2046306B: 0.36
+    - Vector1_489A2A17: 0.2
+    - Vector1_633E5109: 0.14
+    - Vector1_638DAEC9: 189
+    - Vector1_7CC3A455: 0
+    - Vector1_7E4DD18D: 0
+    - Vector1_96B5C643: 0
+    - Vector1_D5509945: 0
+    - Vector1_E5E50DED: 10.4
+    - Vector1_EE65E937: 1
+    - Vector1_F75DDDB3: 15
+    - Vector1_F8FC5257: 5
+    - _center_x: -0.049
+    - _center_y: -0.126
+    - _displacement_density: 401
+    - _displacement_opacity: 0.93
+    - _metallic: 0
+    - _noise1_size: 1.6
+    - _noise2_blend_opacity: 0.047
+    - _noise2_size: 0.36
+    - _noise_opacity: 0.429
+    - _occlusion: 10
+    - _smothness: 0.058
+    - _twirl_strenght: 6
+    m_Colors:
+    - Color_152BA2C5: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 0}
+    - Color_C5571DEE: {r: 1, g: 1, b: 1, a: 0}
+    - _albedo: {r: 1, g: 1, b: 1, a: 0.42745098}
+    - _emission_color: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 0.6}

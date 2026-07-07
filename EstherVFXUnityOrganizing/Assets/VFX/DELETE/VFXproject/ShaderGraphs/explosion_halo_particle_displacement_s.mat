@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: explosion_halo_particle_displacement_s
+  m_Shader: {fileID: -6465566751694194690, guid: ac49214b6f66c074bb9ccbc6f25deefc,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_518516CC: 3.84
+    - Vector1_70CBDE33: 0.087
+    - Vector1_8010C5F8: -3.88
+    - Vector1_8B122089: 3.33
+    - Vector1_8F19FF20: 1.5
+    - Vector1_BDCEA12B: 100
+    - Vector1_EE17B987: 100
+    - Vector1_F1DCCD57: 5.72
+    - Vector1_FFE409E4: 0
+    m_Colors:
+    - Color_A79A7287: {r: 2.0178506, g: 0, b: 0, a: 0.09803922}
+    - Color_D9F8F7D9: {r: 3.0314326, g: 0.71952915, b: 0, a: 0}

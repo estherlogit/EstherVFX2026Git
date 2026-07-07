@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: art_iceCrackMaterial
+  m_Shader: {fileID: -6465566751694194690, guid: 3fd833401160d4740a74bd071c302ea1,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoTexture:
+        m_Texture: {fileID: 2800000, guid: bc60b2d6b73dd41ca86f78b678e31e67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_3750EDE9_Texture_1:
+        m_Texture: {fileID: 2800000, guid: b0a007b32daf142d8bffc7f7d5a26803, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_4BD9006D_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 96ba68143a7de45eebfd465fc896c8c5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_9EEBFFC8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: d263884a9e23a48e4b0447388c80926c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_A494274_Texture_1:
+        m_Texture: {fileID: 2800000, guid: bc60b2d6b73dd41ca86f78b678e31e67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_6C2AB65F_Out_0:
+        m_Texture: {fileID: 2800000, guid: 96ba68143a7de45eebfd465fc896c8c5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ParallaxOffset: -0.0015
+    m_Colors:
+    - Color_32477093: {r: 0.12735847, g: 0.653199, b: 1, a: 0}

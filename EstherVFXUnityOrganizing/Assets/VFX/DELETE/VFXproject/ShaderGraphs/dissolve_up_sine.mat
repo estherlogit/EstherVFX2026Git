@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: dissolve_up_sine
+  m_Shader: {fileID: -6465566751694194690, guid: db21447e6369c91498a37299a71f9217,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_1C0003E: 25.7
+    - Vector1_4262D1D2: -9.6
+    - Vector1_5B37D616: -3.48
+    - Vector1_601413AC: 0.082
+    - Vector1_6F81F98A: 0.036
+    - Vector1_76A69175: 1.69
+    - Vector1_9A6290F1: 0.5
+    - Vector1_B3503B84: 2
+    m_Colors:
+    - Color_2435F5E3: {r: 0.9339623, g: 0.8678997, b: 0, a: 1}
+    - Color_80F7A82B: {r: 4.594794, g: 2.342444, b: 0, a: 0}
+    - Vector2_9177C99B: {r: -1, g: 1, b: 0, a: 0}
+    - Vector2_F699D44F: {r: -1, g: 1, b: 0, a: 0}

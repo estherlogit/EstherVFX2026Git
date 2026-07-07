@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: dissolve_explosion
+  m_Shader: {fileID: -6465566751694194690, guid: c410b75de98dbc34dab6c7777b764410,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_1280966E: 1.9
+    - Vector1_1FABF6F9: 1
+    - Vector1_4ACCB079: 0.371
+    - Vector1_70350F8E: 0.492
+    - Vector1_74E22838: 0.5
+    - Vector1_E3C8BC6B: 30
+    - Vector1_E682298D: 0
+    - Vector1_F2A162B0: 0.176
+    m_Colors:
+    - Color_14D7C158: {r: 0.18867922, g: 0.18867922, b: 0.18867922, a: 0}
+    - Color_C33485C4: {r: 4.5947943, g: 0.1959709, b: 0, a: 0}
+    - Vector2_AB68528C: {r: -2.81, g: 0.72, b: 0, a: 0}
+    - Vector2_B5BEB528: {r: -2.68, g: 1, b: 0, a: 0}
+    - Vector2_CFBC4B3: {r: -5.57, g: 0.37, b: 0, a: 0}

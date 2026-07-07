@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3400964176868967909
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MI_Waterfall_BaseWater
+  m_Shader: {fileID: -6465566751694194690, guid: e36a963f66ddb564aae5f076546ebc20, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Fire_Noise:
+        m_Texture: {fileID: 2800000, guid: 363963eb3ebd7124595ee3228bed4ac0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Fire_Noise_Intensity: 0.3
+    - _Fire_Noise_UV_Distorsion_Intensity: 0.3
+    - _Float: 1.09
+    - _Foam_Depth_Fade_Distance: 0.5
+    - _Noise_Intensity: 1
+    - _Noise_UV_Distorsion_Intensity: 0.2
+    - _Opacity_Depth_Fade_Distance: -0.03
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _UV_Masking_Bottom_0_Left_1: 0
+    - _Vertex_Offset_Intensity: 0.1
+    - _With_Texture_Opacity_1: 0
+    m_Colors:
+    - _Fire_Noise_Tiling_and_Offset_Speed: {r: 1, g: 1, b: 0, a: 0.2}
+    - _Fire_Noise_UV_Distorsion_Tiling_and_Offset_Speed: {r: 1, g: 1, b: 0, a: 0.05}
+    - _Noise_Tiling_and_Offset_Speed: {r: 1, g: 0.4, b: 0, a: 0.23}
+    - _Noise_UV_Distorsion_Tiling_and_Offset_Speed: {r: 4, g: 1, b: 0, a: 0.05}
+    - _Opacity_Smoothstep_Masking_Sides: {r: 0, g: 0.3, b: 0, a: 0.3}
+    - _Opacity_Smoothstep_Masking_Top_Bot: {r: 0, g: 1, b: 0, a: 0.5}
+    - _Smoothstep: {r: -0.15, g: 1.99, b: 0, a: 0}
+    - _Vertex_Offset_Tiling_and_Offset_Speed: {r: 1, g: 1, b: 0, a: 0.3}
+    - _Water_Color_Dark: {r: 0.001290498, g: 0.07777761, b: 0.2735849, a: 0}
+    - _Water_Color_Light: {r: 0.111641124, g: 0.44713423, b: 0.5283019, a: 0}
+  m_BuildTextureStacks: []

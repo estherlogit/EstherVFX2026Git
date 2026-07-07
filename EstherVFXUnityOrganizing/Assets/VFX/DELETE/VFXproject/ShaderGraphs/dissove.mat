@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: dissove
+  m_Shader: {fileID: -6465566751694194690, guid: 65b127ddf10e3bb4c99cee7e451fd43f,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_4ACCB079: 0.371
+    - Vector1_70350F8E: 0.492
+    - Vector1_E3C8BC6B: 30
+    - Vector1_F2A162B0: 0.176
+    m_Colors:
+    - Color_14D7C158: {r: 0, g: 0, b: 0, a: 0}
+    - Color_C33485C4: {r: 4.5947943, g: 0.1959709, b: 0, a: 0}
+    - Vector2_B5BEB528: {r: -1, g: 1, b: 0, a: 0}

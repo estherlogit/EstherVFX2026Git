@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/VFXApprentice/Scenes/110_BlockIn.unity
+    guid: c437ee85afd720046bd4da1fbcdfb55c
+  - enabled: 1
+    path: Assets/VFXApprentice/Scenes/120_TexturesIntroduction.unity
+    guid: 5d3be7d7d0702e64ea677b8f8609f4e6
+  - enabled: 1
+    path: Assets/VFXApprentice/Scenes/130_MaterialsIntroduction.unity
+    guid: a88184f697daf0f4aa042c9ce6d2994d
+  - enabled: 1
+    path: Assets/VFXApprentice/Scenes/140_MeshesIntroduction.unity
+    guid: 35e955d1e71ad96468e34a66d423d9b9
+  - enabled: 1
+    path: Assets/VFXApprentice/Scenes/150_ElementalStudies.unity
+    guid: 480ce6be4b66c174689e7cb72c6f8d47
+  - enabled: 1
+    path: Assets/VFXApprentice/Scenes/Checkerland.unity
+    guid: 946538a0876ae6244967dc43ea8488d5
+  m_configObjects: {}

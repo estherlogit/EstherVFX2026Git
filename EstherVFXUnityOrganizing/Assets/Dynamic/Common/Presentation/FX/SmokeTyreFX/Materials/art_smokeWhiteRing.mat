@@ -1,0 +1,275 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5882675272305480039
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 2
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: art_smokeWhiteRing
+  m_Shader: {fileID: -6465566751694194690, guid: 581a71ab0c0104cedb8bad663b702200,
+    type: 3}
+  m_ShaderKeywords: _NORMALMAP
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - SHADOWCASTER
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - CubemapEnvironment:
+        m_Texture: {fileID: 8900000, guid: e15b2b02843f946ccac89d237d83bdb9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_AEBE825:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: 7bc23b310f695144f897afbf652bb29e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 253a6f5490edc954c9cc219d41180a82, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _InnerSurface:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _IridescenceTexture:
+        m_Texture: {fileID: 2800000, guid: cf8fdd07b8bef46bbb64ccbc4c63fc8a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7bc23b310f695144f897afbf652bb29e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapAlbedo1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapAlbedo2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapAlbedo3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapAlbedo4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapNormal1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapNormal2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapNormal3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MultiTextureMapNormal4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 253a6f5490edc954c9cc219d41180a82, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleCubemap_65EF57_Cube_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_C286978A_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 62e923bc62a384be585c037185cf598f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfacePropertyMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_56907A5A_Out_0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_677A4DED_Out_0:
+        m_Texture: {fileID: 2800000, guid: cf8fdd07b8bef46bbb64ccbc4c63fc8a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - LODCubemap: 1
+    - Vector1_141353FD: 1
+    - Vector1_1FEECC89: 0.592
+    - Vector1_34FA0A74: 0.3
+    - Vector1_372C59: 0.15
+    - Vector1_3AA8A989: -0.4
+    - Vector1_8816F36C: -0.02
+    - Vector1_922EE36B: 22.1
+    - Vector1_ACA025D3: 0
+    - Vector1_BC6B1ED0: 6.1
+    - Vector1_C3D1ABC8: 0
+    - Vector1_DEA51824: 0.066
+    - Vector1_EB35AB92: 0
+    - Vector1_F4C3B7D4: -0.47
+    - Vector1_F8C9ABA6: 1
+    - Vector1_F93FDA5: 0
+    - _AlphaClip: 0
+    - _ApplyFog: 1
+    - _Blend: 0
+    - _BlendOp: 0
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ClothEnabled: 0
+    - _ColorMode: 0
+    - _ContactShadowDiffuse: 1
+    - _ContactShadowEnabled: 0
+    - _ContactShadowIndirectDiffuse: 1
+    - _ContactShadowIndirectSpecular: 1
+    - _ContactShadowSpecular: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DielectricReflectivity: 0.04
+    - _DiffuseModelEnabled: 1
+    - _DiffuseModelFoldout: 1
+    - _DiffuseWrap: 0.722
+    - _DiffuseWrapSource: 0
+    - _Dissolve: 1
+    - _DissolveScale: 10
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0.1
+    - _DstBlend: 10
+    - _EmissionEnabled: 0
+    - _EmissionFoldout: 0
+    - _FlipBackfaceNormals: 2
+    - _FlipbookBlending: 0
+    - _FlipbookMode: 0
+    - _ForceVertexLights: 0
+    - _ForceVertexNormalize: 0
+    - _FresnelEmissionPower: 0
+    - _FresnelPower: 1.5
+    - _Glossiness: 0
+    - _GlossyReflections: 1
+    - _InnerSurfaceDepth: 0.01
+    - _InnerSurfaceEnabled: 0
+    - _InnerSurfaceFoldout: 0
+    - _InnerSurfaceIor: 1
+    - _InnerSurfaceMaskSource: 0
+    - _InnerSurfacePerPixel: 0
+    - _InnerSurfaceStrength: 0.5
+    - _InterfaceVersion: 1
+    - _Iridescence: 0.46
+    - _IridescenceSpeed: 0.5
+    - _MainMapsFoldout: 1
+    - _Metallic: 0
+    - _MetallicSource: 0
+    - _Mode: 0
+    - _MultiTextureEnabled: 0
+    - _MultiTextureSelect: 0
+    - _NoiseOpacity: 0
+    - _NoiseSpeed: 0.1
+    - _NoiseStrenght: 0.1
+    - _OcclusionSource: 0
+    - _PerPixelSH: 0
+    - _PerPixelViewDirection: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _RenderStatesFoldout: 1
+    - _RimLightAlbedoStrength: 1
+    - _RimLightEnabled: 0
+    - _RimLightFoldout: 0
+    - _RimLightGlobal: 0
+    - _Roughness: 0.85
+    - _RoughnessSource: 0
+    - _SampleGI: 1
+    - _SheenAlbedoStrength: 0.786
+    - _SheenEnabled: 0
+    - _SheenFoldout: 1
+    - _SheenGlobal: 0
+    - _SheenRange: 0.057
+    - _SkinningMotionVectors: 0
+    - _Smoothness: 0
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 5
+    - _StencilCompareFunction: 0
+    - _StencilFailOperation: 0
+    - _StencilFoldout: 1
+    - _StencilPassOperation: 0
+    - _StencilReadMask: 255
+    - _StencilRef: 0
+    - _StencilWriteMask: 255
+    - _StencilZFailOperation: 0
+    - _Surface: 1
+    - _SurfacePropertiesFoldout: 1
+    - _ThicknessSource: 0
+    - _TranslucencyDistortion: 0.391
+    - _TranslucencyEnabled: 1
+    - _TranslucencyFoldout: 1
+    - _TranslucencyMainLightOnly: 0
+    - _TranslucencyPower: 2
+    - _UseVertexColor: 0
+    - _VoronoiAngle: 45
+    - _VoronoiDensity: 2
+    - _ZWrite: 0
+    - __StandardShaderEndFoldout: 0
+    m_Colors:
+    - Color_3FD4AE2A: {r: 1, g: 1, b: 1, a: 0}
+    - Color_9987C1DD: {r: 1, g: 1, b: 1, a: 0}
+    - EmissionColor: {r: 1, g: 1, b: 1, a: 0}
+    - Vector2_1110CB8D: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_AA38771D: {r: 2, g: -2.5, b: 0, a: 0}
+    - _BaseColor: {r: 0.22, g: 0.21145631, b: 0.20291263, a: 1}
+    - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
+    - _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+    - _Color: {r: 0.4056604, g: 0.38959616, b: 0.373131, a: 1}
+    - _ContactShadowTint: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _GroundAlpha: {r: 0, g: -0.3, b: 0, a: 0}
+    - _InnerSurfaceTint: {r: 1, g: 1, b: 1, a: 1}
+    - _MultiTextureMapColor1: {r: 1, g: 1, b: 1, a: 1}
+    - _MultiTextureMapColor2: {r: 1, g: 1, b: 1, a: 1}
+    - _MultiTextureMapColor3: {r: 1, g: 1, b: 1, a: 1}
+    - _MultiTextureMapColor4: {r: 1, g: 1, b: 1, a: 1}
+    - _OcclusionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _RimLightColor: {r: 1, g: 1, b: 1, a: 1}
+    - _RimLightOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _SheenColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+    - _TranslucencyColor: {r: 0.66400003, g: 0.49269158, b: 0.34328803, a: 1}
+    - _TranslucencyGIColor: {r: 1.4980392, g: 0.19923924, b: 0.19923924, a: 1}

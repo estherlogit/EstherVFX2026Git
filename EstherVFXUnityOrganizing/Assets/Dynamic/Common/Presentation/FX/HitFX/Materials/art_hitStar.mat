@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: art_hitStar
+  m_Shader: {fileID: 10720, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: _APPLY_FOG _EMISSION _NORMALMAP _SAMPLE_GI _SHEEN
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: e2a6d827cc76f3d4482ca318cb0bdcea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _InnerSurface:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SurfacePropertyMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlphaClip: 0
+    - _ApplyFog: 1
+    - _Blend: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DielectricReflectivity: 0.17196883
+    - _DiffuseModelEnabled: 0
+    - _DiffuseModelFoldout: 1
+    - _DiffuseWrap: 0
+    - _DiffuseWrapSource: 0
+    - _DstBlend: 0
+    - _EmissionEnabled: 1
+    - _EmissionFoldout: 1
+    - _ForceVertexLights: 0
+    - _ForceVertexNormalize: 0
+    - _GlossyReflections: 1
+    - _InnerSurfaceDepth: 0.01
+    - _InnerSurfaceEnabled: 0
+    - _InnerSurfaceFoldout: 0
+    - _InnerSurfaceIor: 1
+    - _InnerSurfaceStrength: 0.5
+    - _InterfaceVersion: 1
+    - _MainMapsFoldout: 1
+    - _Metallic: 1
+    - _MetallicSource: 0
+    - _OcclusionSource: 0
+    - _PerPixelSH: 0
+    - _PerPixelViewDirection: 0
+    - _ReceiveShadows: 1
+    - _RenderStatesFoldout: 0
+    - _RimLightAlbedoStrength: 1
+    - _RimLightEnabled: 0
+    - _RimLightFoldout: 1
+    - _Roughness: 0.25
+    - _RoughnessSource: 0
+    - _SampleGI: 1
+    - _SheenAlbedoStrength: 1
+    - _SheenEnabled: 1
+    - _SheenFoldout: 1
+    - _SheenRange: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _SurfacePropertiesFoldout: 1
+    - _ThicknessSource: 0
+    - _TranslucencyDistortion: 0.2
+    - _TranslucencyEnabled: 0
+    - _TranslucencyFoldout: 0
+    - _TranslucencyMainLightOnly: 0
+    - _TranslucencyPower: 2
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 0.8102109, b: 0.36320752, a: 1}
+    - _EmissionColor: {r: 1.3041189, g: 0.7442354, b: 0, a: 1}
+    - _OcclusionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _RimLightColor: {r: 766.9961, g: 766.9961, b: 766.9961, a: 1}
+    - _RimLightOffset: {r: 5.87, g: 1, b: 0, a: 0}
+    - _SheenColor: {r: 4.9245777, g: 4.9245777, b: 4.9245777, a: 1}
+    - _TranslucencyColor: {r: 4, g: 4, b: 4, a: 1}
+    - _TranslucencyGIColor: {r: 4, g: 4, b: 4, a: 1}
