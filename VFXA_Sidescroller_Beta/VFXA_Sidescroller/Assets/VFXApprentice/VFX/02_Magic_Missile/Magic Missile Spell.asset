@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5169a4ad7ee32934cbad3c0c7971481a, type: 3}
+  m_Name: Magic Missile Spell
+  m_EditorClassIdentifier: 
+  buildupPrefab: {fileID: 979644274484933589, guid: 0419f680f6013ad49ad65b61474312d5,
+    type: 3}
+  castPrefab: {fileID: 4386539480671252682, guid: f786552d1ccccb84b903bc3c13d38aaf,
+    type: 3}
+  projectilePrefab: {fileID: 8003273127433158483, guid: 39722820ca53d5a46a5d37dd1d9a8069,
+    type: 3}
+  impactPrefab: {fileID: 4373762962257659980, guid: 14f1e685ec8cf8e44a8e82b36d886ca7,
+    type: 3}
+  _missileSpawnDelay: 0.2
+  _projectileDestroyDelay: 0.5
+  _projectileDestroyDistance: 7

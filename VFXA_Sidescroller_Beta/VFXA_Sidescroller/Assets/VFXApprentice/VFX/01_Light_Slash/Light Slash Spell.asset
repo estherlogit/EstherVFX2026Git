@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07aba5d3a74df76439059b85651a5fd9, type: 3}
+  m_Name: Light Slash Spell
+  m_EditorClassIdentifier: 
+  slashPrefab: {fileID: 3258349631425751962, guid: 3f9b384583ddd334ab8672b6f16c186f,
+    type: 3}
+  burstPrefab: {fileID: 5718013043648532678, guid: baf907c97b7df024a83288e82d8c6ae4,
+    type: 3}
+  spawnDelay: 0.35
+  _cooldownTime: 0.5

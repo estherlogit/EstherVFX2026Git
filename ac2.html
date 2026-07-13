@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <script src="./scripts/browser_checker.js"> </script>
+        <SCRIPT LANGUAGE="javascript">
+            function window_onload() 
+            {
+                var location = new String(self.document.location);
+                
+                if (location.indexOf("key") != -1)
+                {
+                    self.document.location.href = location.replace("ac2.html", "applicant_center2/entry");
+                }
+            }
+        </SCRIPT>
+    </head>
+
+    <body LANGUAGE="javascript" onload="window_onload();">
+    </body>
+
+</html>
