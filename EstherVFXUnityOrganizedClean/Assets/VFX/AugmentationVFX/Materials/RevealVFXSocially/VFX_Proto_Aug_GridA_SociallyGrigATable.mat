@@ -1,0 +1,176 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-5757508049339450207
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VFX_Proto_Aug_GridA_SociallyGrigATable
+  m_Shader: {fileID: -6465566751694194690, guid: add7a7f578e61a8418b6a309479daf13, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords:
+  - _EMISSION
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3035
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTexture:
+        m_Texture: {fileID: 2800000, guid: dd79bedacc8dbd44d9d4889359683e7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: 2e4a442467567af4f9f7d9efac35304a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissolveTexture:
+        m_Texture: {fileID: 2800000, guid: 23fc2982e248c604088d5e9a35db10ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionRainbowtexture:
+        m_Texture: {fileID: 2800000, guid: 05fc7e30bb3f78743a5a61ab8f111c0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LinesX:
+        m_Texture: {fileID: 2800000, guid: dd79bedacc8dbd44d9d4889359683e7f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ecd30311bab327349a78153562c9ed51, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_0adeffaaf44d44cbb7814a9e0bd6633a_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Triplanar_1566100445194eb4a30f9058d76cb020_Texture_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Alpha: 1.09
+    - _AlphaClip: 0
+    - _AlphaContrast: -0.5
+    - _AlphaNoiseAnimation: 0.97
+    - _AlphaNoiseContrast: 0.07
+    - _AlphaNoiseScale: 19
+    - _AlphaToMask: 0
+    - _AnimateHorizontalLines: 0.538
+    - _AnimateHorizontalLinesThick: 1
+    - _AnimateHorizontalLinesThin: 1
+    - _AnimationAlphaZ: 3.32
+    - _AnimationHorizontalLinesThick: 1
+    - _AnimationHorizontalLinesThin: 1
+    - _AnimationThickLinesVertica: 1
+    - _AnimationThinLinesVertical: 1
+    - _Blend: 0
+    - _CastShadows: 1
+    - _ColorDeformation: -0.16
+    - _ColorGradientAdd: 4.02
+    - _ColorGradientPosition: 3.11
+    - _ColorNoiseAlpha: -2.06
+    - _ColorNoiseContrast: 0.16
+    - _ColorNoiseScale: 7.42
+    - _ColorNoiseSpeed: 0
+    - _Contrast: 1.48
+    - _ContrastAlpha: 0.45
+    - _Cull: 2
+    - _Dissolve: 1
+    - _DissolveTextureRotation: -1.79
+    - _DontToch: 0
+    - _DontTouch: 0
+    - _DotsRotation: 43.24
+    - _DstBlend: 10
+    - _DstBlendAlpha: 10
+    - _EdgeThickness: 0.476
+    - _Float: 1
+    - _Float_1: -0.4
+    - _Float_2: -12.57
+    - _Fresnel: 24.37
+    - _Fresnel_1: -16.88
+    - _LinesOpacity: 0.208
+    - _NoiseAlphaScale: -13.5
+    - _NoiseScale: 19.6
+    - _NoiseSpeed: 0.01
+    - _OutlineAnimation: 3.53
+    - _OverallAlpha: 0.54
+    - _QueueControl: 0
+    - _QueueOffset: 35
+    - _RainbowNoiseScale: 19.63
+    - _RealToGridAnimation: 1
+    - _ReceiveShadows: 1
+    - _RemapColorAlphaX: 0
+    - _RemapColoralphaY: 0.936
+    - _ShereMaskRadius: 0.6
+    - _SphereMaskCenter: 0.66
+    - _SphereMaskHardness: 1.28
+    - _SpherizeStrength: 0
+    - _SrcBlend: 5
+    - _SrcBlendAlpha: 1
+    - _Surface: 1
+    - _ThickLinesThickness: 0.015
+    - _ThikLinesTiling: 40
+    - _ThinLinesThickness: 0.03
+    - _ThinLinesTiling: 160
+    - _VoronoiCellDensity: 282.7
+    - _WorkflowMode: 1
+    - _ZTest: 2
+    - _ZWrite: 0
+    - _ZWriteControl: 0
+    - _thinLinesThikness: 0.05
+    m_Colors:
+    - Vector2_72D19A39: {r: 1, g: 1, b: 0, a: 0}
+    - _AlphaOffset: {r: -38.68, g: -0.03, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _ConvertColorGradientB: {r: 0.1, g: 1, b: 0, a: 0}
+    - _DotsOffset: {r: 0, g: 0, b: 0, a: 0}
+    - _Emission: {r: 1.319508, g: 1.319508, b: 1.319508, a: 1}
+    - _RemapBradientb: {r: 0.64, g: 1, b: 0, a: 0}
+    - _RemapColorGradientA: {r: -0.55, g: 0.59, b: 0, a: 0}
+    - _RemapGradient: {r: -0.27, g: 1.1, b: 0, a: 0}
+    - _SpherizeCenter: {r: 1.5, g: -1.5, b: 0, a: 0}
+    - _SquareTiling: {r: 1, g: 3, b: 0, a: 0}
+    - _TilingRainbow: {r: 2.85, g: -2.28, b: 0, a: 0}
+    - _Vector2: {r: 1.83, g: 7.89, b: 0, a: 0}
+    - _Vector2_1: {r: 0, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
