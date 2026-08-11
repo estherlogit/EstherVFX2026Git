@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a3c7fd367078c4598360c118f6877e, type: 3}
+  m_Name: Healing Spell
+  m_EditorClassIdentifier: 
+  buildupPrefab: {fileID: 979644274484933589, guid: c421366166d79534ba70241f8a378941,
+    type: 3}
+  castPrefab: {fileID: 4386539480671252682, guid: 2ac7fe8c05e0d734cae379ea5ab502cb,
+    type: 3}
+  AOEPrefab: {fileID: 4373762962257659980, guid: 270b7f9b15ad2484dabb97eadfec7db5,
+    type: 3}
+  _spawnDelay: 0
+  _cooldownTime: 0.8
