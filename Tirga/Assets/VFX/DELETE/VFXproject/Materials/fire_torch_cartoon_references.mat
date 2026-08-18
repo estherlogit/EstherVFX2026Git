@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: fire_torch_cartoon_references
+  m_Shader: {fileID: -6465566751694194690, guid: ab747d50be458e747abbdad68c066da4, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_5CF68BD2:
+        m_Texture: {fileID: 2800000, guid: a94f796494431fb4e9e245f40f8c8385, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_D5FEF25F:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_853BD838_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_F8B6330C_Texture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _main_texture:
+        m_Texture: {fileID: 2800000, guid: a94f796494431fb4e9e245f40f8c8385, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texture_dodge:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texture_glow:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_138B4B70: 0.82
+    - Vector1_24B51CFA: 0.7
+    - Vector1_2ECE381A: 4.19
+    - Vector1_3445FD12: 0.34
+    - Vector1_41991F82: 80
+    - Vector1_4578FA51: 0
+    - Vector1_52A8C0F: 11.7
+    - Vector1_54917149: 0.68
+    - Vector1_805670B3: 0
+    - Vector1_8F53F69A: 0
+    - Vector1_A10EAF6C: -2.83
+    - Vector1_B11C29CA: 0
+    - Vector1_D986D2F0: 0.01
+    - Vector1_E64A5462: 1.03
+    - Vector1_EBCD7C6C: -1.74
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - __offset_speed_x_noise: -1.74
+    - __offset_speed_x_voronoi: -0.2
+    - __offset_speed_y_voronoi: -2.83
+    - __tiling_speed_x_noise: -0.7
+    - __tiling_speed_x_voronoi: -0.5
+    - __tiling_speed_y_voronoi: 2.3
+    - _distortion_amount: 0.28
+    - _gradient_noise_power: 1.26
+    - _gradient_noise_scale: 4.45
+    - _gradient_noise_scale_1: 5
+    - _offset_speed_x: 0.1
+    - _offset_speed_x_noise: 0
+    - _offset_speed_y: -0.5
+    - _ramp_multiply: 0.667
+    - _ramp_position_y: 0.61
+    - _ramp_possition_y: 0.22
+    - _tiling_speed_x_noise: -0.7
+    - _tiling_speed_x_voronoi: 0.5
+    - _tiling_speed_y_voronoi: 0.5
+    - _voronoi_angle_offset: 5
+    - _voronoi_density: 4.3
+    - _voronoi_power: 0.43
+    m_Colors:
+    - Color_952C9F39: {r: 0.3862414, g: 3.6886053, b: 0.63729835, a: 1}
+    - Color_A51AF814: {r: 2, g: 2, b: 2, a: 0}
+    - Color_ACAFEBEC: {r: 2.0851119, g: 14.259475, b: 2.9252446, a: 1}
+    - Color_C88FE3AC: {r: 0, g: 0.9612422, b: 1, a: 1}
+    - Vector2_C467BA18: {r: 0.7, g: 0.7, b: 0, a: 0}
+    - Vector2_F877F920: {r: 0.11, g: 0.4, b: 0.39, a: 0}
+    - _color: {r: 2.0851119, g: 14.259475, b: 2.9252446, a: 1}
+    - _color_blended: {r: 2.9329898, g: 5.1387925, b: 3.7142591, a: 1}
+    - _color_glow: {r: 0, g: 1, b: 1, a: 1}
+    - _offset_glow: {r: -0.43, g: 0.33, b: 0, a: 0}
+    - _tiling_glow: {r: 1.5, g: 1.5, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &3998051522836692970
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 10
